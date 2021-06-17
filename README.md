@@ -5,4 +5,4 @@ Automated flutter installation script in bash
 ```git clone https://github.com/EurikaProg201/automated-flutter-installation-ubuntu.git && sh auto-install-flutter.sh```
 
 #You will personally add flutter to path in the (~/.bashrc) file.Check link below on how to do it.
-[Here] (https://flutter.dev/docs/get-started/install/linux#update-your-path)
+<a href="https://flutter.dev/docs/get-started/install/linux#update-your-path">Here</a>
